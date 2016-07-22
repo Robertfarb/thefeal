@@ -536,6 +536,8 @@ article.format-aside .aside { background: none repeat scroll 0 0 #d2e0f9; border
 	background: none repeat scroll 0 0 #00c2a9;
 }
 
+
+
 .flex_btn, .service-box1 img, .other-service-area i, .other-service-area:hover i, .proejct-btn a:hover {border: 2px solid #00c2a9;}
 
 .blog-author-social li:hover, .tweet-btn a:hover { border: 1px solid #00c2a9;}
@@ -569,4 +571,12 @@ article.format-aside .aside { background: none repeat scroll 0 0 #d2e0f9; border
     background-color: transparent !important;
     color: #00c2a9 !important;
 	}
+}
+
+/*================================================*/
+/*					Custom CSS					  */
+/*================================================*/
+
+.header-top-area{
+	display: none;
 }
