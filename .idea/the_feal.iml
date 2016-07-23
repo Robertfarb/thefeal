@@ -8,5 +8,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="node-jsfl-runner-DefinitelyTyped" level="application" />
   </component>
 </module>
